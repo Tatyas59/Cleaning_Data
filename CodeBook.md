@@ -21,6 +21,7 @@ nC - number of columns in tidyData
 td - second tiny data set with average of each variable for each activity and subject
 
 #Output
+
 tidydata.txt
 tidydata.txt is a 180x68 data frame.
 
